@@ -1,12 +1,12 @@
 # Welcome to the WQC Project 👋
 
 WQC is an active quantum computing project currently under private development. 
-In preparation for our future open-source release, we are sharing the overviews (READMEs) of our core components.
+In preparation for our future open-source release, we are sharing the overviews and documentation of our core components in the [wqc-docs](https://github.com/world-qc/wqc-docs) repository.
 
-### 📚 Project Overviews (Drafts)
-You can explore the details of our repositories under development via the following Gist:
+### 📚 Project Documentation & Overviews
+You can explore the architecture and details of our components under development here:
 
-- [WQC Project System Overviews (GitHub Gist)](https://gist.github.com/yoshitaka-sato/18ba7d102a75b1e30c1a6e9875f15b2b)
+- [WQC Documentation Repository (wqc-docs)](https://github.com/world-qc/wqc-docs)
 
 ---
 *We are currently in private alpha. Stay tuned for the official OSS release!*
